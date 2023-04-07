@@ -1,0 +1,6 @@
+D:\POC\BE\JPA-ManyToMany\src\main\java\com\test\JpaManytomanyApplication.java
+D:\POC\BE\JPA-ManyToMany\src\main\java\com\test\controller\StudentCourseController.java
+D:\POC\BE\JPA-ManyToMany\src\main\java\com\test\entity\Student.java
+D:\POC\BE\JPA-ManyToMany\src\main\java\com\test\respository\CourseRepository.java
+D:\POC\BE\JPA-ManyToMany\src\main\java\com\test\respository\StudentRepository.java
+D:\POC\BE\JPA-ManyToMany\src\main\java\com\test\entity\Course.java

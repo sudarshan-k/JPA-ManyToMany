@@ -1,0 +1,6 @@
+com\test\entity\Course.class
+com\test\entity\Student.class
+com\test\respository\CourseRepository.class
+com\test\JpaManytomanyApplication.class
+com\test\respository\StudentRepository.class
+com\test\controller\StudentCourseController.class
