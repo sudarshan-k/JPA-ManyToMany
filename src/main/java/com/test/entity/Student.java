@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import javax.persistence.*;
+import java.util.List;
 import java.util.Set;
 
 @Entity
@@ -34,6 +35,6 @@ public class Student {
             }
     )
     @JsonManagedReference
-    private Set<Course> courses;
+    private List<Course> courses;
 
 }
